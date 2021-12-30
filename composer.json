@@ -11,5 +11,10 @@
             "email": "d.eckhaus@farmedvisie.nl"
         }
     ],
+     "extra": {
+        "branch-alias": {
+            "main": "1.0.0-dev"
+        }
+    },
     "require": {}
 }
