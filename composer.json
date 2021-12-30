@@ -1,0 +1,15 @@
+{
+    "name": "deckhaus/web-start-tests",
+    "autoload": {
+        "psr-4": {
+            "Deckhaus\\WebStartTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David",
+            "email": "d.eckhaus@farmedvisie.nl"
+        }
+    ],
+    "require": {}
+}
